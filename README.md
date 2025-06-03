@@ -1,5 +1,4 @@
-# Crptocurrency-Advisor-chatbot
- CryptoBuddy 🤖
+# CryptoBuddy 🤖
 
 CryptoBuddy is your AI-powered financial sidekick that helps you make informed decisions about cryptocurrency investments. It provides recommendations based on sustainability, market trends, and profitability metrics.
 
@@ -68,6 +67,16 @@ This tool is for educational and informational purposes only. Cryptocurrency inv
 - Past performance doesn't guarantee future results
 - Always conduct thorough research before investing
 - Consider consulting with financial advisors
+
+## Contributors 👥
+
+Special thanks to our amazing contributors:
+
+- [tonie123](https://github.com/tonie123)
+- [Steven1823](https://github.com/Steven1823)
+- [spookeylucy](https://github.com/spookeylucy)
+- [charity407](https://github.com/charity407)
+- [Denis-tech-jpg](https://github.com/Denis-tech-jpg)
 
 ## Contributing 🤝
 
