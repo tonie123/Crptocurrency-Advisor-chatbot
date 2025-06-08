@@ -7,23 +7,40 @@ CryptoBuddy is your AI-powered financial sidekick that helps you make informed d
 - **Sustainability Analysis**: Find eco-friendly cryptocurrencies with low energy consumption
 - **Market Trend Tracking**: Identify cryptocurrencies with rising price trends
 - **Profitability Metrics**: Get recommendations based on market cap and price trends
-- **Interactive Chat Interface**: Simple and friendly conversation-based interaction
+- **Interactive Web Interface**: Modern, responsive chat interface with quick suggestions
 - **Built-in Risk Warnings**: Automatic disclaimers with every recommendation
+
+## Project URL 🔗
+
+Access the web interface at: http://localhost:5000 (when running locally)
 
 ## Getting Started 🚀
 
 ### Prerequisites
 
 - Python 3.x installed on your system
+- Flask web framework (`pip install flask`)
 
-### Running the Application
+### Running the Web Application
 
 1. Clone or download this repository
 2. Navigate to the project directory
-3. Run the script:
+3. Install dependencies:
    ```bash
-   python crypto_advisor.py
+   pip install flask
    ```
+4. Start the web server:
+   ```bash
+   python app.py
+   ```
+5. Open your browser and visit: http://localhost:5000
+
+### Running the CLI Version
+
+If you prefer the command-line interface:
+```bash
+python crypto_advisor.p
+```
 
 ## Usage Examples 💡
 
